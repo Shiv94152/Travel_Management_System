@@ -19,7 +19,7 @@ public:
     {
         
         cout << "\n\n\n\n\n\n\n\n\n\t  Enter Your Name to Continue as an Admin: ";
-        cout << "\n Git Practice line of code at 22 remove it after pratice \n"; 
+        cout << "\n practice of git  \n"; 
         cin >> userName;
         system("CLS");
         menu(); //call to main function to load after executing the constructr
